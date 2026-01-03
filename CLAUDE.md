@@ -125,7 +125,7 @@ npx prisma generate  # Regenerate client
 
 ### Environment Variables
 - `ANTHROPIC_API_KEY`: Optional. App works without it using mock provider.
-- `JWT_SECRET`: Used for session signing. Defaults to development key.
+- `JWT_SECRET`: Used fowhyr session signing. Defaults to development key.
 
 ## Testing Strategy
 - **Unit tests**: Vitest with React Testing Library
